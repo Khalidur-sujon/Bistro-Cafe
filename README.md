@@ -2,7 +2,15 @@
 
 Welcome to Bistro Cafe, a stunning restaurant website created with React.js, Tailwind CSS, and powered by Framer Motion for seamless animations. This mobile-friendly and responsive website allows you to explore our exquisite menu and immerse yourself in the inviting ambiance of our restaurant, all from the comfort of your device.
 
-![Bistro Cafe Screenshot](screenshot.png)
+# Some of Bistro Cafe Screenshots
+![1](https://github.com/Khalidur-sujon/Bistro-Cafe/assets/99888997/f37406a8-f2e6-4fa3-b824-064675c3a12c)
+![2](https://github.com/Khalidur-sujon/Bistro-Cafe/assets/99888997/76ebcf23-0f7b-4688-8c7f-0bc640609ba6)
+![3](https://github.com/Khalidur-sujon/Bistro-Cafe/assets/99888997/f9ba45ce-49a6-4165-b175-2f75ecd42f59)
+
+
+
+
+
 
 ## Features
 
