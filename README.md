@@ -22,7 +22,7 @@ Welcome to Bistro Cafe, a stunning restaurant website created with React.js, Tai
 
 ## Live Demo
 
-Experience the flavors of Bistro Cafe by visiting [Live Demo](bistrocafe.netlify.app)
+Experience the flavors of Bistro Cafe by visiting [Live Demo](https://bistrocafe.netlify.app)
 
 ## Installation
 
