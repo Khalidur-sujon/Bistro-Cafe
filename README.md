@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
  ```bash
-   git clone https://github.com/yourusername/bistro-cafe.git
+   git clone https://github.com/Khalidur-sujon/bistro-cafe.git
    ```
 
 2. Navigate to the project directory:
